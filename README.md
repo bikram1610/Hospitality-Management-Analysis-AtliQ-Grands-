@@ -1,2 +1,2 @@
-# Hospitality-Management-Analysis-AtliQ-Grands-
+# Hospitality-Management-Analysis-AtliQ-Grands
 Python Project
